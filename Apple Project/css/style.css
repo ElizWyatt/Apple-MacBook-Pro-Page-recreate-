@@ -1,0 +1,68 @@
+.nav-li {
+    list-style-type: none;
+    display: inline;
+    color: white
+}
+
+
+.header2 {
+    font-size: 25px;
+    font-weight: bold;
+    padding-top: 20px;
+}
+
+.header3 {
+    list-style-type: none;
+    padding-top: 30px;
+}
+
+.listinline {
+    display: inline;
+    color: black;
+    font-size: 12;
+    padding: 20px 20px 20px 20px;
+
+}
+
+.header5 {
+    font size: 64;
+    font-weight: bold
+}
+
+.button-size {
+    padding: 28px 49px;
+}
+
+.hearticon {
+    width: 5%;
+
+}
+
+.selectbtn {
+    height: 45px;
+    width: 240px;
+}
+
+.new {
+    color: red;
+}
+
+.thirdcol {
+    padding: 20px;
+}
+
+.order {
+    width: 100%;
+}
+
+.threemacs {
+    align: center;
+}
+
+.applecare {
+    align: center;
+}
+
+.bottomheader {
+    width: 100%;
+}
